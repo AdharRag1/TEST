@@ -1,0 +1,126 @@
+body{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+   
+    text-align: justify;
+}
+#heading{
+    background-color: #119B9D;   
+    
+}
+.title{
+    color: white;    
+    font-size: 40px;  
+    
+}
+#navbar{
+    margin-left:15%;
+    margin-right: 15%;  
+    display: run-in;    
+    justify-content: space-between;
+    
+}
+.btn{
+    background-color: white;
+    color: #9900FF;
+    border-radius: 47%;
+    font-size: 25px;
+    padding:10px;
+    border-color: #9900FF;
+}
+.rightsidenav{
+
+    margin-left: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 20px;
+    margin-top: -80px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.icon{
+    height: 25px;
+    width: 25px;
+    
+}
+.friendsearch{
+    background-color:#9900FF ;
+    color: white;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 3px 3px 0px black;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+    
+}
+#undernavbar{
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+.h3{
+    color: white;
+}
+.user{
+    background-color:#DDDDDD ;
+    display: flex;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+.pet{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+}
+.h1{
+    font-size: 40px;
+}
+.parag{
+    font-size: 20px;
+
+}
+.pet-title{
+    margin-right: 100px;
+    margin-left: 10px;
+    
+}
+.pet-btn-side{
+    margin: 20px;
+    
+}
+.petperonce{
+    background-color:#17CFD1 ;
+    color: white;
+    font-size: 30px;
+    padding-right: 60px;
+    padding-left: 60px;
+    box-shadow: 8px 8px 0px black;
+    
+    white-space: nowrap;
+
+    
+}
+#select{
+    font-size: 20px;
+}
+#input{
+    font-size: 20px;
+}
+#logo{
+    margin-right: 9px;
+    height: 40px;
+    width: 40px;
+}
+#body{
+    margin-left:15%;
+    margin-right: 15%; 
+}
+#fix{
+    padding-right: 60px;
+    padding-left: 80px;
+}
